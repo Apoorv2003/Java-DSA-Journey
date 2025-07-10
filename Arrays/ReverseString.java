@@ -1,4 +1,4 @@
-// ✅ Leetcode 344. Reverse String
+// Leetcode 344. Reverse String
 // https://leetcode.com/problems/reverse-string/
 // Topic: Arrays, Two Pointers
 class Solution {
